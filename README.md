@@ -1,4 +1,4 @@
-# Project 2: Crowdfunding_ETL
+**Crowdfunding_ETL**
 
 ### Group 3 Members: Juhi, Kesha, Austin, Hima, and Lora
 
